@@ -1,3 +1,3 @@
 ## Description
 
-The Bhardwaj Lab is a part of the [Institute of Biodynamics and Biocomplexity](https://www.uu.nl/en/organisation/institute-of-biodynamics-and-biocomplexity) of Utrecht University. We study regulatory genomics of cell fate decisions. We build new bioinformatic methods and tools to analyse the data from quantitative genomics technologies. 
+The Bhardwaj Lab is a part of the [Institute of Biodynamics and Biocomplexity](https://www.uu.nl/en/organisation/institute-of-biodynamics-and-biocomplexity) of Utrecht University. We study regulatory genomics of cell fate decisions. We build new bioinformatic methods and tools to analyse data from emerging genomics technologies. 
